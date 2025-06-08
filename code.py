@@ -12,14 +12,6 @@ nltk.download('stopwords')
 nltk.download('punkt')
 
 
-# static functions
-def who_am_i():  # this is not a class method
-    """Returns a dictionary with your name, id number and email. keys=['name', 'id','email']
-        Make sure you return your own info!
-    """
-    return {'name': 'Nadav Toledo', 'id': '209496009', 'email': 'nadavtol@post.bgu.ac.il'}
-
-
 def normalize_text(fn):
     """ Loading a text file and normalizing it, returning a list of sentences.
 
