@@ -4,10 +4,10 @@ This repository contains a custom implementation of the Skip-Gram model with Neg
 
 ## 📁 Repository Structure
 
-- `code.py` — Main implementation of the SGNS model.
-- `test.py` — Unit tests and example usages of the model.
-- `drSeuss.txt` — Sample corpus from Dr. Seuss books.
-- `harrypotter1.txt` — Sample corpus from the first Harry Potter book.
+- `code.py` - Main implementation of the SGNS model.
+- `test.py` - Unit tests and example usages of the model.
+- `drSeuss.txt` - Sample corpus from Dr. Seuss books.
+- `harrypotter1.txt` - Sample corpus from the first Harry Potter book.
 
 ## 🚀 Features
 
@@ -102,8 +102,8 @@ You can configure the following parameters when initializing or training the mod
 
 Two sample text files are included for experimentation:
 
-- `drSeuss.txt` — Light, rhythmic children’s language.
-- `harrypotter1.txt` — Narrative-style prose with richer vocabulary.
+- `drSeuss.txt` - Light, rhythmic children’s language.
+- `harrypotter1.txt` - Narrative-style prose with richer vocabulary.
 
 These can be replaced with any plain `.txt` file for training the model on different domains or writing styles.
 
